@@ -3,7 +3,7 @@ A Sony infra-red controller available via MQTT
 
 Using the Arduino platform, program an ATTiny85 with ATTINY85_IR_I2C.ino
 
-Load irmqtt.py onto your ESP82666 - I used a WEMOS D1 Mini
+Load irmqtt.py and simple.py onto your ESP82666 - I used a WEMOS D1 Mini
 
 You can see how to hook it up here http://www.indianbeantree.co.uk/wiki/index.php?title=WEMOS_D1_mini_IoT_IR_Controller
 
